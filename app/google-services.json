@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "653266328165",
+    "firebase_url": "https://week06assignment-73b17-default-rtdb.firebaseio.com",
+    "project_id": "week06assignment-73b17",
+    "storage_bucket": "week06assignment-73b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653266328165:android:88ae4ca47d8629a7c1048c",
+        "android_client_info": {
+          "package_name": "org.st991640705.week06assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRIZHZL7L-CBMuNIK5Mxj4wXU5pll_b-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Employees Weekly Schedule</string>
+    <string name="add_contact_page">Add Employee\'s Schedule</string>
+    <string name="update_contact_page">Update Employee\'s Schedule</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="fragment_add">Add Fragment </string>
+    <string name="fragment_forgot_password">Forgot Password Fragment</string>
+    <string name="fragment_home">Home Fragment</string>
+    <string name="fragment_login">Login Fragment</string>
+    <string name="fragment_signup">SignUp Fragment</string>
+    <string name="fragment_update">Update Fragment</string>
+    <string name="fragment_update_password">Update Password Fragment</string>
+
+    <string name="name_hint">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="get_password_link">Get password</string>
+    <string name="new_password">New password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="send_data">Send Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="or">OR</string>
+    <string name="back">Back</string>
+</resources>
